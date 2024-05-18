@@ -1,0 +1,40 @@
+body {
+    background-color: #f5f5f5;
+    font-family: Roboto, sans-serif;
+}
+
+/* -- Styling for the headers */
+h1, h2, h3, h4, h5, h6 {
+    color: #eeeeee;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* -- Styling for the paragraphs */
+p {
+    color: #eeeeee;
+    line-height: 15px;
+    margin: 0 0 10px;
+    text-align: center;
+}
+
+/* -- Styling for the filters */
+.stMultiSelect, .stSelectbox {
+    border: 1px solid #eeeeee;
+    border-radius: 10px;
+    padding: 8px;
+    width: 100%;
+    margin-bottom: 8px;
+}
+
+.stMultiSelect option, .stSelectbox option {
+    padding: 8px;
+}
+
+/* -- Styling for images */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    align-self: center;
+}
