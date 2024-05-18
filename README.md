@@ -1,5 +1,6 @@
 # DVIZ-project
 Exploring suicide data around the world for DVIZ module.
+
 ![image](https://github.com/DaWelli/DVIZ-project/assets/167629897/85ed6888-8088-403f-8db9-7be063c01bcd)
 Use the sidebar to navigate between the pages.
 
