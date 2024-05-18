@@ -17,7 +17,7 @@ st.markdown(
 )
 
 # -- Loading CSS --
-with open('./styles.css') as f:
+with open('./style/styles.css') as f:
     css = f.read()
     st.markdown(f'<style>{css}</style>', unsafe_allow_html=True)
 
