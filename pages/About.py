@@ -61,11 +61,6 @@ st.write('')
 st.markdown('[World in Data - Population](https://www.kaggle.com/datasets/iamsouravbanerjee/world-population'
             '-dataset)')
 
-st.markdown('#### This is the dataset used in the World development section.')
-st.write('')
-st.markdown('[World in Data - Indicators](https://www.kaggle.com/datasets/kaggle/world-development-indicators'
-            '/data)')
-
 # -- Code --
 st.markdown('# :anchor: Code')
 st.markdown('This is the all the code written to produce this app, for each page.')
@@ -801,11 +796,6 @@ elif code_selection == 'About / Code':
     st.write('')
     st.markdown('[World in Data - Population](https://www.kaggle.com/datasets/iamsouravbanerjee/world-population'
                 '-dataset)')
-    
-    st.markdown('#### This is the dataset used in the World development section.')
-    st.write('')
-    st.markdown('[World in Data - Indicators](https://www.kaggle.com/datasets/kaggle/world-development-indicators'
-                '/data)')
     
     # -- Code --
     st.markdown('# :anchor: Code')
