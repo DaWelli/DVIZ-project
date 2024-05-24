@@ -44,7 +44,6 @@ datasets related to world development indicators, population statistics, and sui
     - Python
     - Streamlit
     - Plotly
-    - Folium
     - Pandas
     """)
 
@@ -786,7 +785,6 @@ elif code_selection == 'About / Code':
         - Python
         - Streamlit
         - Plotly
-        - Folium
         - Pandas
         """)
     
